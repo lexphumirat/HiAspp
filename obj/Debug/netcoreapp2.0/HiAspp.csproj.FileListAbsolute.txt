@@ -1,0 +1,10 @@
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/bin/Debug/netcoreapp2.0/HiAspp.deps.json
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/bin/Debug/netcoreapp2.0/HiAspp.runtimeconfig.json
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/bin/Debug/netcoreapp2.0/HiAspp.runtimeconfig.dev.json
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/bin/Debug/netcoreapp2.0/HiAspp.dll
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/bin/Debug/netcoreapp2.0/HiAspp.pdb
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/obj/Debug/netcoreapp2.0/HiAspp.csproj.CoreCompileInputs.cache
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/obj/Debug/netcoreapp2.0/HiAspp.AssemblyInfoInputs.cache
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/obj/Debug/netcoreapp2.0/HiAspp.AssemblyInfo.cs
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/obj/Debug/netcoreapp2.0/HiAspp.dll
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/HiAspp/obj/Debug/netcoreapp2.0/HiAspp.pdb
